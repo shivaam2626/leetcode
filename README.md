@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shivaam2626/leetcode/tree/master/0070-climbing-stairs) |
+| [2396-strictly-palindromic-number](https://github.com/shivaam2626/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/shivaam2626/leetcode/tree/master/0200-number-of-islands) |
+## Two Pointers
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/shivaam2626/leetcode/tree/master/2396-strictly-palindromic-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/shivaam2626/leetcode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
