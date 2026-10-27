@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/shivaam2626/leetcode/tree/master/0070-climbing-stairs) |
 | [2396-strictly-palindromic-number](https://github.com/shivaam2626/leetcode/tree/master/2396-strictly-palindromic-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/shivaam2626/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivaam2626/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/shivaam2626/leetcode/tree/master/0200-number-of-islands) |
+| [3875-construct-uniform-parity-array-i](https://github.com/shivaam2626/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Depth-First Search
 |  |
 | ------- |
