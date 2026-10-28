@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shivaam2626/leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/shivaam2626/leetcode/tree/master/0231-power-of-two) |
 | [2396-strictly-palindromic-number](https://github.com/shivaam2626/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shivaam2626/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
@@ -48,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/shivaam2626/leetcode/tree/master/2396-strictly-palindromic-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/shivaam2626/leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/shivaam2626/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
